@@ -1,19 +1,19 @@
 
 .product-img{
     width: 300px;
+    object-fit: contain;
 
 }
 section img{
-    height: 150px;
-    object-fit: contain;
+    height: 250px;
     width: 300px;
     
 }
 #photo-header{
     color: green;
     font-family: cursive;
-    font-weight: 150px;
-    font-size: 32px;
+    font-weight: 900;
+    font-size: 35px;
     text-align: center;
     margin-bottom: 50px; 
     margin-top: 30px;
@@ -23,4 +23,5 @@ p{
     text-align: center;
     font-family: cursive;
     font-size: 15px;
+    
 }
